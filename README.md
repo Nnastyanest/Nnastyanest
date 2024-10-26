@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Nastya.
+- 👀 I'm interested in python programming.
+- 🌱 I'm currently studying machine learning.
+- 💞️ I want to collaborate with all interesting and cool people.
+- 📫 How to reach me: @nnasttyyan (tg)
+- ⚡ Fun fact: I've got a pet rabbit.
